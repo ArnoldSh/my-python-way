@@ -263,7 +263,7 @@ Version information is stored in:
 -   [ ] API layer
 -   [ ] packaging and distribution
 -   [ ] containerization (Docker)
--   [ ] 
+
 ------------------------------------------------------------------------
 
 # License
